@@ -1,0 +1,27 @@
+1. D. Checkout
+2. B. Checkout
+3. D. Checkout
+4. D. Tag
+5. A. Workspace
+6. D. Clone & Pull
+7. D. A and B are correct. Fetch is required to view the latest status of the reomote respository because it is the command that is used to retrieve the latest code 
+		from the remote repository.
+8. D. Workspace
+9. D. B & C are correct
+10. C. File2.txt would be inside teh workspace area
+
+Essay area
+
+1. 	Stash: move files in the workspace to the stash area.
+	Unstash: merge stashed files with the files in the workspace.
+	Commit: Stages the files int the current branch in the local repository.
+	Checkout branch: switches the current workspace's files with the branch being switched to's files. Uncommitted or unstashed work is effectively deleted.
+	
+2. 	Switching branches is performed when you need to look at code that is available on another branch. For example, a developer on your team 
+	creates a very useful interface and you would like to use it to develop a feature. Using SCM, you will need to checkout their branch and 
+	to view and interact with the code.
+
+3.	Tag is to label work so that you can have a history of what has happened to the code over time. Files tagged with 0.1v are marked differently from 1.0v.
+	This would allow for rolling back to be accomplished with relative ease. 
+
+4.
