@@ -1,2 +1,2 @@
-Welcome to PROB01 Exam !
+Welcome to PROB01 Exam!
 Answer the practice questions in this repository.
