@@ -1,1 +1,1 @@
-Quiz PROB01 atas nama <Alfredo Sirait>
+quiz PROB01 atas nama <Alfredo Sirait>
